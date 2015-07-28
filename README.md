@@ -1,7 +1,7 @@
 <h1>Modul pro Oxideshop</h1>
 <h2>Instalace</h2>
 <ol style="color: black; ">
-  <li><a href="http://www.zasilkovna.cz/soubory/oxideshop-module.zip">Stáhnout soubor modulu &raquo;</a></li>
+  <li><a href="https://github.com/Zasilkovna/oxid-eshop/raw/master/releases/zasilkovna-oxideshop-latest.zip">Stáhnout soubor modulu &raquo;</a></li>
   <li>
     Obsah zip archivu nakopírujte do kořenového adresáře vašeho obchodu oxideshop.<br>
   </li>
