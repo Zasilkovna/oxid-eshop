@@ -10,7 +10,7 @@
     <a href="https://cloud.githubusercontent.com/assets/13521096/8906702/f2e76584-3470-11e5-9e90-ca5f5f97becf.png"><img width="50%" src="https://cloud.githubusercontent.com/assets/13521096/8906702/f2e76584-3470-11e5-9e90-ca5f5f97becf.png"></a><br><br>
   </li>
   <li>
-    Po aktivaci přejděte na panel <i>settings</i> a nastavte váš api klíč, který je: <code>41494564a70d6de6</code><br>
+    Po aktivaci přejděte na panel <i>settings</i> a nastavte váš api klíč.<br>
     <a href="https://cloud.githubusercontent.com/assets/13521096/8906703/f2e7bf20-3470-11e5-8fea-630b44aa952a.png"><img width="50%" src="https://cloud.githubusercontent.com/assets/13521096/8906703/f2e7bf20-3470-11e5-8fea-630b44aa952a.png"></a><br><br>
   </li>
   <li>
